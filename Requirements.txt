@@ -1,0 +1,7 @@
+pyautogen
+python-dotenv
+flaml[automl]
+matplotlib 
+numpy 
+alpha_vantage
+pandas
